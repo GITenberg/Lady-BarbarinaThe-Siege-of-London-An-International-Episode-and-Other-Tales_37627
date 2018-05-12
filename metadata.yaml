@@ -1,0 +1,30 @@
+_repo: Lady-BarbarinaThe-Siege-of-London-An-International-Episode-and-Other-Tales_37627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Europe -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: Lady Barbarina -- The siege of London -- An international episode
+  -- The Pension Beaurepas -- A bundle of letters -- The point of view.
+title: Lady Barbarina, The Siege of London, An International Episode, and Other Tales
+url: http://www.gutenberg.org/ebooks/37627
